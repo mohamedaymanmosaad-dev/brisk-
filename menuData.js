@@ -21,7 +21,7 @@ export const FALLBACK_CATEGORIES = [
                 ]
             },
             {
-                "id": 10,
+                "id": 2,
                 "name": "Turkish Coffee with Milk | قهوة فرنساوي",
                 "description_ar": "قهوة تركية تقليدية مع الحليب لمذاق أكثر نعومة.",
                 "imageUrl": "Turkish Coffee with Milk.png",
@@ -53,7 +53,7 @@ export const FALLBACK_CATEGORIES = [
                 ]
             },
             {
-                "id": 2,
+                "id": 10,
                 "name": "Macchiato | ماكياتو",
                 "description_ar": "إسبريسو مع لمسة من رغوة الحليب المكثف.",
                 "imageUrl": "Macchiato.png",
@@ -213,7 +213,7 @@ export const FALLBACK_CATEGORIES = [
     {
         "category_id": 2,
         "category_name": "Warm Drinks",
-        "sort_order": 20,
+        "sort_order": 95,
         "products": [
             {
                 "id": 15,
@@ -1315,8 +1315,8 @@ export const FALLBACK_CATEGORIES = [
                         "size": "M",
                         "price": 109
                     }
-                ]
-            },
+             
+            
             {
                 "id": 73,
                 "name": "Ice Caramel Macchiato | آيس كراميل ماكياتو",
